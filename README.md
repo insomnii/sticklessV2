@@ -13,6 +13,9 @@ uses an Arduino Pro Micro, only intended to use on PC (plan on making another wi
 
 <div align="center">
     <img src=".\pics\CAD_IMAGE.png" alt="drawing" width="400"/>
+
+</div>
+<div align="center">
     <img src=".\pics\pic2.jpg" alt="drawing" width="400"/>
 </div>
 
